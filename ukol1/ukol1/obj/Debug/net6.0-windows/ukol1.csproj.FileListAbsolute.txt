@@ -1,0 +1,17 @@
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\bin\Debug\net6.0-windows\ukol1.exe
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\bin\Debug\net6.0-windows\ukol1.deps.json
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\bin\Debug\net6.0-windows\ukol1.runtimeconfig.json
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\bin\Debug\net6.0-windows\ukol1.dll
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\bin\Debug\net6.0-windows\ukol1.pdb
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\obj\Debug\net6.0-windows\ukol1.csproj.AssemblyReference.cache
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\obj\Debug\net6.0-windows\ukol1.Form1.resources
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\obj\Debug\net6.0-windows\ukol1.csproj.GenerateResource.cache
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\obj\Debug\net6.0-windows\ukol1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\obj\Debug\net6.0-windows\ukol1.AssemblyInfoInputs.cache
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\obj\Debug\net6.0-windows\ukol1.AssemblyInfo.cs
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\obj\Debug\net6.0-windows\ukol1.csproj.CoreCompileInputs.cache
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\obj\Debug\net6.0-windows\ukol1.dll
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\obj\Debug\net6.0-windows\refint\ukol1.dll
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\obj\Debug\net6.0-windows\ukol1.pdb
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\obj\Debug\net6.0-windows\ukol1.genruntimeconfig.cache
+C:\Users\stulh\OneDrive\Plocha\ukol1\ukol1\obj\Debug\net6.0-windows\ref\ukol1.dll
